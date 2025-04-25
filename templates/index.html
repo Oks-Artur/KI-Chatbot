@@ -1,0 +1,27 @@
+<!-- HTML-Oberfläche für den Chatbot -->
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>KI-Chatbot von Ihrem Bewerber: Artur Oks</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>KI-Chatbot von Ihrem Bewerber: Artur Oks</h1>
+    <form method="post" action="/chat">
+        <input name="message" placeholder="Deine Nachricht" required>
+        <button type="submit">Senden</button>
+    </form>
+
+    {% if message %}
+    <p><strong>Du:</strong> {{ message }}</p>
+    <p><strong class="bot">Bot:</strong> {{ response }}</p>
+    {% endif %}
+
+    <hr>
+    <h3>Chat-Verlauf</h3>
+    {% for speaker, text in chat %}
+        <p class="{{ 'user' if speaker == 'Du' else 'bot' }}"><strong>{{ speaker }}:</strong> {{ text }}</p>
+    {% endfor %}
+</body>
+</html>
