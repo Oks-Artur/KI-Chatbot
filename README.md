@@ -20,5 +20,7 @@ Der Chatbot verwendet die OpenAI API (GPT-4) und wurde mit Hilfe von **Lernvideo
 - OpenAI GPT-4 API
 - HTML/CSS (eingebettet)
 
+#Autor: Artur Oks
+
 
 
