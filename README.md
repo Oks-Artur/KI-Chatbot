@@ -1,6 +1,9 @@
 # KI-Chatbot
 # 🤖 KI Chatbot mit OpenAI und Flask
 
+⚠️ **Projektstatus**: Aktive Entwicklungsphase (Beta)  
+*Dieser Chatbot ist ein laufendes Lernprojekt - neue Features kommen bald!*
+
 Dieses Projekt ist ein einfacher, aber funktionaler KI-Chatbot, den ich im Rahmen meiner Bewerbung für den Studiengang **Künstliche Intelligenz** entwickelt habe.  
 Der Chatbot verwendet die OpenAI API (GPT-4) und wurde mit Hilfe von **Lernvideos**, **eigenen Mitschriften** sowie **Unterstützung durch KI** realisiert.
 
@@ -19,6 +22,8 @@ Der Chatbot verwendet die OpenAI API (GPT-4) und wurde mit Hilfe von **Lernvideo
 - Flask
 - OpenAI GPT-4 API
 - HTML/CSS (eingebettet)
+
+Das Projekt ist open-source – ich freue mich über Code-Reviews oder Ideen
 
 ## Artur Oks
 Bewerber für den Studiengang **Künstliche Intelligenz** bei der **BMW**
