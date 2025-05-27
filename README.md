@@ -27,7 +27,7 @@ Der Chatbot verwendet die OpenAI API (GPT-4) und wurde mit Hilfe von **Lernvideo
 Das Projekt ist open-source – ich freue mich über Code-Reviews oder Ideen
 
 ## Artur Oks
- Bewerbung für das duale Studium im Bereich Künstliche Intelligenz bei der **BMW Group** in Regensburg
+ Bewerber für das duale Studium im Bereich Künstliche Intelligenz bei der **BMW Group** in Regensburg
 
 
 
