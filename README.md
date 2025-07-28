@@ -4,7 +4,10 @@
 ## ⚠️ Projektstatus: Aktive Entwicklungsphase (Beta)  
 *Dieser Chatbot ist ein laufendes Lernprojekt - neue Features kommen bald!*
 
-Dieses Projekt ist ein einfacher, aber funktionaler KI-Chatbot, den ich im Rahmen meiner Bewerbung für den Studiengang **Künstliche Intelligenz** entwickelt habe.  
+# KI-Chatbot zur Unterstützung interner IT-Prozesse
+
+Dieses Projekt ist ein einfacher, aber funktionaler KI-Chatbot, den ich im Rahmen meiner Bewerbung für die Ausbildungsplätze zum  
+**Fachinformatiker für Daten- und Prozessanalyse** sowie zum **Kaufmann für Digitalisierungsmanagement** bei der BMW Group entwickelt habe.
 Der Chatbot verwendet die OpenAI API (GPT-4) und wurde mit Hilfe von **Lernvideos**, **eigenen Mitschriften** sowie **Unterstützung durch KI** realisiert.
 
 🧠 **Es ist mein erster selbst entwickelter KI-Chatbot**, bei dem ich viele neue Dinge lernen und praktisch anwenden konnte – von API-Nutzung über Webentwicklung bis hin zum Deployment.
@@ -27,8 +30,8 @@ Der Chatbot verwendet die OpenAI API (GPT-4) und wurde mit Hilfe von **Lernvideo
 Das Projekt ist open-source – ich freue mich über Code-Reviews oder Ideen
 
 ## Artur Oks
- **Bewerber** für das duale Studium im Bereich Künstliche Intelligenz bei der **BMW Group** in **Regensburg**
-
+ **Bewerber** für die Ausbildungsplätze zum  
+**Fachinformatiker für Daten- und Prozessanalyse** sowie zum **Kaufmann für Digitalisierungsmanagement** bei der BMW Group.
 
 
 
