@@ -30,6 +30,6 @@ Der Chatbot verwendet die OpenAI API (GPT-4) und wurde mit Hilfe von **Lernvideo
 Das Projekt ist open-source – ich freue mich über Code-Reviews oder Ideen
 
 # Artur Oks
- **Bewerber** für ein Ausbildungsplatz bei der **BMW Group**
+ **Bewerber** für einen Ausbildungsplatz bei der **BMW Group**
 
 
